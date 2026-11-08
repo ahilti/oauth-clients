@@ -1,0 +1,1 @@
+{"client_id":"https://ahilti.github.io/oauth-clients/client-a.json","client_name":"Personal client A","redirect_uris":["http://127.0.0.1:8989/oauth/callback"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none"}
